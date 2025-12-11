@@ -142,3 +142,6 @@ A simple HTML/CSS/JS form is available to facilitate easy testing and administra
 
 * **Rule Conflict Detection:** Logic is implemented to prevent the creation of rules with overlapping patterns.
 * **Frontend Command Submission:** The optional frontend is functional for submitting commands.
+
+### Demo link
+
