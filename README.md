@@ -144,4 +144,5 @@ A simple HTML/CSS/JS form is available to facilitate easy testing and administra
 * **Frontend Command Submission:** The optional frontend is functional for submitting commands.
 
 ### Demo link
-
+<https://www.loom.com/share/7a8b71e861b946d481de23dbdf7903ee>
+<https://www.loom.com/share/614df4d8762043aa829ce6931dd8c0c9>
